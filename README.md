@@ -8,7 +8,7 @@ Visit the full [Project Website](https://socialbutterflyyy.wixsite.com/socialbut
 - [Development Process](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/tree/main?tab=readme-ov-file#development-process)
 
 ## My Role
-My role in this project was the lead gameplay engineer. I was responsible for implementing the core gameplay mechanics into Unity. Additionally, I assisted in implementing assets and feedback into the game in the later stages of developement.
+&emsp;My role in this project was the lead gameplay engineer. I was responsible for implementing the core gameplay mechanics into Unity. Additionally, I assisted in implementing assets and feedback into the game in the later stages of developement.
 
 ## Scripts and Functions
 ### Player
@@ -108,5 +108,26 @@ Changes color if corresponding player is in contact.
 Class containing a Vector3, representing position, and an ID, representing the player.
 
 ## Development Process
+&emsp;The development of the gameplay mechanics takes place in its own development scene. This was done mainly so that I could make any changes I want to the scene in order to test the code without having to worry about merge conflicts. Additionally, the development scene will not be cluttered with final assets and level design, making it easier to navigate the scene and test the code. Other members are able to build out the level at the same time as I develop the code without fear of interference. I first implemented the barebones mechanics of the game, which involves creating a system where gameObjects will follow other gameObjects.
+<p align="center" >
+  <img src="./Images/process_0.png" width = 75% >
+</p>
+&emsp;After implementing the base gameplay mechanic, I began adding the rest of the core mechanics. This includes collision box interactions, updating and improving the movement system, defining the distribution of butterflies, etc.
+<p align="center">
+  <br>
+  <img src="./Images/process_1.png" width = 75% >
+</p>
+<p align="center">
+  <img src="./Images/process_2.png" width = 75% >
+</p>
+&emsp;After refining the existing base mechanics, they needed to be implemented into the actual level. At this point, the game needed to be a playable prototype, so a start, end, and movement through the level were added.
+<p align="center">
+  <br>
+  <img src="./Images/process_3.png" width = 75% >
+</p>
+<p align="center">
+  <img src="./Images/process_4.png" width = 75% >
+</p>
+&emsp;Now, the only thing left to do is to refine the game. This mostly comes in the form of implementing assets, such as animations and cutscenes, tuning the numbers, and fixing any potential bugs.
 
 
