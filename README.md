@@ -1,5 +1,7 @@
 # Social Butterfly Experience Scripts
-Collection of Scripts I was mainly responsible for in a group project.
+Documentation of the scripts I was responsible for in a group project.  
+
+Visit the full [Project Website](https://socialbutterflyyy.wixsite.com/socialbutterfly/) for more details about the project itself.
 
 ## Scripts and Functions
 ### Player
