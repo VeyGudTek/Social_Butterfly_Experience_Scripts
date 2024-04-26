@@ -3,6 +3,13 @@ Documentation of the scripts I was responsible for in a group project.
 
 Visit the full [Project Website](https://socialbutterflyyy.wixsite.com/socialbutterfly/) for more details about the project itself.
 
+- [My Role](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/edit/main/README.md#my-role)
+- [Scripts and Functions](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/edit/main/README.md#scripts-and-functions)
+- [Development Process](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/edit/main/README.md#development-process)
+
+## My Role
+My role in this project was the lead gameplay engineer. I was responsible for implementing the core gameplay mechanics into Unity. Additionally, I assisted in implementing assets and feedback into the game in the later stages of developement.
+
 ## Scripts and Functions
 ### Player
 Object controlled by players. Tracks previous position using a queue of TrailPoints.
@@ -99,3 +106,7 @@ Changes color if corresponding player is in contact.
 
 ### TrailPoint
 Class containing a Vector3, representing position, and an ID, representing the player.
+
+## Development Process
+
+
