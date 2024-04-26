@@ -3,9 +3,9 @@ Documentation of the scripts I was responsible for in a group project.
 
 Visit the full [Project Website](https://socialbutterflyyy.wixsite.com/socialbutterfly/) for more details about the project itself.
 
-- [My Role](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/edit/main/README.md#my-role)
-- [Scripts and Functions](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/edit/main/README.md#scripts-and-functions)
-- [Development Process](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/edit/main/README.md#development-process)
+- [My Role](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/tree/main?tab=readme-ov-file#my-role)
+- [Scripts and Functions](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/tree/main?tab=readme-ov-file#scripts-and-functions)
+- [Development Process](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/tree/main?tab=readme-ov-file#development-process)
 
 ## My Role
 My role in this project was the lead gameplay engineer. I was responsible for implementing the core gameplay mechanics into Unity. Additionally, I assisted in implementing assets and feedback into the game in the later stages of developement.
