@@ -11,6 +11,9 @@ Visit the full [Project Website](https://socialbutterflyyy.wixsite.com/socialbut
 &emsp;My role in this project was the lead gameplay engineer. I was responsible for implementing the core gameplay mechanics into Unity. Additionally, I assisted in implementing assets and feedback into the game in the later stages of development.
 
 ## Scripts and Functions
+
+&emsp;You can find the source code in the [Scripts](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/tree/main/Scripts) folder. Below are short descriptions of each script and its functions. Note that these are not all the scripts used in the project; they are only the ones I was mainly responsible for.
+
 ### Player
 Object controlled by players. Tracks previous position using a queue of TrailPoints.
 
