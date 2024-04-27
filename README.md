@@ -8,7 +8,7 @@ Visit the full [Project Website](https://socialbutterflyyy.wixsite.com/socialbut
 - [Development Process](https://github.com/VeyGudTek/Social_Butterfly_Experience_Scripts/tree/main?tab=readme-ov-file#development-process)
 
 ## My Role
-&emsp;My role in this project was the lead gameplay engineer. I was responsible for implementing the core gameplay mechanics into Unity. Additionally, I assisted in implementing assets and feedback into the game in the later stages of developement.
+&emsp;My role in this project was the lead gameplay engineer. I was responsible for implementing the core gameplay mechanics into Unity. Additionally, I assisted in implementing assets and feedback into the game in the later stages of development.
 
 ## Scripts and Functions
 ### Player
@@ -112,7 +112,7 @@ Class containing a Vector3, representing position, and an ID, representing the p
 <p align="center" >
   <img src="./Images/process_0.png" width = 75% >
 </p>
-&emsp;After implementing the base gameplay mechanic, I began adding the rest of the core mechanics. This includes collision box interactions, updating and improving the movement system, defining the distribution of butterflies, etc.
+&emsp;After implementing the base gameplay mechanic, I began building in the rest of the core mechanics. This includes collision box interactions, updating and improving the movement system, defining the distribution of butterflies, etc.
 <p align="center">
   <br>
   <img src="./Images/process_1.png" width = 75% >
@@ -120,7 +120,7 @@ Class containing a Vector3, representing position, and an ID, representing the p
 <p align="center">
   <img src="./Images/process_2.png" width = 75% >
 </p>
-&emsp;After refining the existing base mechanics, they needed to be implemented into the actual level. At this point, the game needed to be a playable prototype, so a start, end, and movement through the level were added.
+&emsp;After refining the existing base mechanics, they needed to be implemented into the actual level. At this point, the game needed to be a playable prototype, so a start, an end, and movement through the level were added.
 <p align="center">
   <br>
   <img src="./Images/process_3.png" width = 75% >
