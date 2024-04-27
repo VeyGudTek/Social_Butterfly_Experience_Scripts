@@ -129,5 +129,12 @@ Class containing a Vector3, representing position, and an ID, representing the p
   <img src="./Images/process_4.png" width = 75% >
 </p>
 &emsp;Now, the only thing left to do is to refine the game. This mostly comes in the form of implementing assets, such as animations and cutscenes, tuning the numbers, and fixing any potential bugs.
+<p align="center">
+  <br>
+  <img src="./Images/process_5.png" width = 75% >
+</p>
+<p align="center">
+  <img src="./Images/process_6.png" width = 75% >
+</p>
 
 
